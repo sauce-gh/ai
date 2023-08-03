@@ -1,0 +1,1 @@
+var response = "i 'm a snitch , i 'm a snitch , i 'm a snitch , i 'm a snitch , i 'm a snitch , i 'm a snitch , i 'm a snitch , i 'm a snitch , i 'm a snitch , i 'm a snitch , i 'm a snitch , i 'm a snitch , i 'm a snitch , i 'm a snitch , i 'm a snitch , i 'm a snitch , i 'm a snitch , i 'm a snitch , i 'm a snitch , i";
